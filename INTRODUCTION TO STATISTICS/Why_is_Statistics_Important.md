@@ -84,4 +84,3 @@ Example:
 
 ### **Conclusion**
 Statistics helps us understand data, avoid mistakes, and make better decisions. From business to science to everyday life, knowing statistics can help us think smarter!
-
