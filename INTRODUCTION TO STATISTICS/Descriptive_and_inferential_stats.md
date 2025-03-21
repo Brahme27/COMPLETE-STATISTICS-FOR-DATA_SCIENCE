@@ -84,4 +84,75 @@ Imagine you want to predict the average height of all students in a school. If y
 
 Descriptive statistics **summarize what you know**, while inferential statistics **predict what you do not know** based on a sample.  
 
-Without statistics, making sense of data would be like trying to read a book with all the letters scrambled.
+## optional (But my suggestion,better to go through once)
+
+Measures of Central Tendency in Data Science (with Definitions & Examples)
+
+1️⃣ Mean (Average)
+Definition:
+In data science, the mean is the sum of all data points divided by the total number of data points. It represents the central value of a dataset and helps identify the overall trend.
+Examples:
+
+General Mathematical Example:
+Data: 10, 20, 30, 40, 50
+Mean: (10 + 20 + 30 + 40 + 50) ÷ 5 = 30
+
+Mathematical Example with Real-World Scenario:
+Scenario: Average scores of students in an exam
+Scores: 70, 75, 80, 85, 90
+Mean: (70 + 75 + 80 + 85 + 90) ÷ 5 = 80
+
+Mathematical Example with Outliers:
+Data: 10, 20, 30, 40, 1000 (outlier)
+Mean: (10 + 20 + 30 + 40 + 1000) ÷ 5 = 220
+
+Real-World Example with Outliers:
+Scenario: Average monthly salary of employees
+Salaries: ₹30,000, ₹35,000, ₹40,000, ₹45,000, ₹5,00,000 (outlier)
+Mean: ₹6,50,000 ÷ 5 = ₹1,30,000
+
+2️⃣ Median (Middle Value)
+Definition:
+The median is the middle value in a sorted dataset. It divides the data into two equal halves, where 50% of the values are lower and 50% are higher than the median.
+Examples:
+
+General Mathematical Example:
+Data: 5, 10, 15, 20, 25
+Median: 15
+
+Mathematical Example with Real-World Scenario:
+Scenario: Median age in a family
+Ages: 12, 18, 25, 30, 35
+Median Age: 25
+
+Mathematical Example with Outliers:
+Data: 5, 10, 15, 20, 1000 (outlier)
+Median: 15
+
+Real-World Example with Outliers:
+Scenario: Median house price in a neighborhood
+Prices: ₹30 Lakh, ₹40 Lakh, ₹50 Lakh, ₹60 Lakh, ₹10 Crore (outlier)
+Median Price: ₹50 Lakh
+
+3️⃣ Mode (Most Frequent Value)
+Definition:
+The mode is the data point that appears most frequently in a dataset. It identifies the most common or popular value.
+Examples:
+
+General Mathematical Example:
+Data: 2, 4, 4, 6, 8
+Mode: 4
+
+Mathematical Example with Real-World Scenario:
+Scenario: Most common shoe size sold in a store
+Sizes: 7, 8, 8, 9, 10
+Mode: 8
+
+Mathematical Example with Outliers:
+Data: 2, 4, 4, 6, 8, 1000 (outlier)
+Mode: 4
+
+Real-World Example with Outliers:
+Scenario: Most common mobile phone brand in a survey
+Brands: Samsung, iPhone, iPhone, OnePlus, Vertu (outlier)
+Mode: iPhone
