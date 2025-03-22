@@ -1,7 +1,3 @@
-Here’s your rewritten text with real-world examples added for the random sampling techniques:  
-
----
-
 # Population vs. Sample: What’s the Difference?  
 
 Often in statistics, we’re interested in collecting data to answer a research question.  
