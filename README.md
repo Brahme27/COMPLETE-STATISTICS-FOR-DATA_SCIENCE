@@ -9,3 +9,7 @@ This is the one statistics repo that’s enough for all data enthusiasts to star
 3) Data is everywhere, but statistics is what makes it useful
 4) In data science, statistics is the difference between making a decision and making a mistake
 5) Statistics is like a detective for data—it helps you find the real story behind the numbers
+
+
+
+## This repo still in developing....
