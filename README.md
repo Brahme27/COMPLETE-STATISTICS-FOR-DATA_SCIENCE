@@ -12,4 +12,5 @@ This is the one statistics repo that’s enough for all data enthusiasts to star
 
 
 
-## This repo still in developing....
+## REPO STATUS:
+# Not completed
